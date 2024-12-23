@@ -100,11 +100,11 @@ INSERT INTO records (result_id, type) VALUES
 (10, 'CR');
 
 INSERT INTO accidents (race_id, client_id, car_id, type) VALUES
-(1, 2, 4, 'Crash'),
+(1, 2, 7, 'Crash'),
 (3, 5, 7, 'Spinout'),
 (4, 8, 2, 'Mechanical Failure'),
 (2, 3, 5, 'Crash'),
-(6, 9, 1, 'Flat Tire'),
+(6, 9, 2, 'Flat Tire'),
 (7, 10, 3, 'Collision'),
 (5, 1, 6, 'Mechanical Failure'),
 (8, 4, 9, 'Spinout'),
